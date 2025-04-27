@@ -15,7 +15,3 @@ Heyyyy 👋🏼 I'm a<br>         • Full Stack Developer 👨‍💻 <br>     
 ![](https://nirzak-streak-stats.vercel.app/?user=Saza-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saza-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saza-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
