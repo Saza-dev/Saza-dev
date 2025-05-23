@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyyyy 👋🏼 I'm a<br>         • Full Stack Developer 👨‍💻 <br>         • Data Science and AI Engineering enthusiastic 🌱<br>I'm currently into deep learning 💡
+Heyyyy 👋🏼 I'm a<br>         • Full Stack Developer 👨‍💻 <br>         • Data Science and AI Engineering enthusiastic 🌱<br>I'm currently into Gen AI 💡
 
 
 # 💻 Tech Stack:
